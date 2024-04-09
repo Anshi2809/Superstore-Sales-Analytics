@@ -7,10 +7,8 @@ The Superstore is facing a competitive retail landscape and needs to optimize it
 # Report Snapshot (Power BI DESKTOP)
 
  
-![SALES DASHBOARD](https://github.com/Sidhant-abhi/Superstore-Sales-Analysis/assets/146129693/9b460124-469e-4a05-b1fa-145aeba31c35)
-
-![1709931712350](https://github.com/Sidhant-abhi/Superstore-Sales-Analysis/assets/146129693/9ce85740-f73a-4e5f-a5ac-f54bdc047822)
-
+![Screenshot 2024-04-09 235632](https://github.com/Anshi2809/Superstore-Sales-Analytics/assets/147128756/75f73ff1-81d1-4742-839a-713c86a6c88b)
+![Screenshot 2024-04-09 235654](https://github.com/Anshi2809/Superstore-Sales-Analytics/assets/147128756/73cc2069-19ec-42cc-8ce5-10e2148974fe)
 
 
 # Insights
